@@ -3,31 +3,31 @@ title: About
 date: 2017-11-17
 ---
 
-Goal
+# Goal
 
 A reliable 3D printer accurate enough to print 3D printer parts.
 
-Non-goal
+## Non-goal
 
-Cheap
+* Cheap
 
-Blazing fast
+* Blazing fast
 
-Large build space
+* Large build space
 
-Heritage
+# Heritage
 
 Tiacxy is a remix of Hypercube
 
-Remixed bits
+## Remixed bits
 
-Use some parts from Artur's Lab
+* Use some parts from Artur's Lab
 
-24V supply
+* 24V supply
 
-Controller board capable of 24V
+  * Controller board capable of 24V
 
-Increased height for electronics storage at bottom & filament spool/extruder on top
+* Increased height for electronics storage at bottom & filament spool/extruder on top
 
-X axis rods are 8mm steel rods with LM8LUU bearings, same as Y axis
+* X axis rods are 8mm steel rods with LM8LUU bearings, same as Y axis
 
