@@ -2,8 +2,6 @@
 title: Controller board
 ---
 
-# Controller board
-
 ## 8-bit vs 32-bit
 
 Tiacxy 1 will use an 8-bit controller, it is a tried and tested technology, with easy to source parts from multiple suppliers.
@@ -14,9 +12,7 @@ It will be easy to swap out the controller board with a 32-bit board in the futu
 
 ## Choice of 8-bit boards
  * Rumba
- * MKS
-   * MKS 1.4
-   * MKS 1.5
+ * MKS GEN L
 
 ## Reference
 
