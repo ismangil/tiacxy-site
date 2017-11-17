@@ -4,7 +4,7 @@ description: "This is another CoreXY 3D Printer Build"
 ---
 
 
-Here are the [guides to build Tiacxy.](http://guides.tiacxy.eu)
+Here are the [guides to build Tiacxy.](http://tiacxy.eu/guides)
 
 Eventually, there will be in a [book](https://book.tiacxy.eu)
 
