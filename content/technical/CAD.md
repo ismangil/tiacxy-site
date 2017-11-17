@@ -1,1 +1,4 @@
+---
+title: CAD file
+---
 On Onshape: https://cad.onshape.com/documents/fff50d7f9df3119f6e6a9545/w/0bdde96570dd45bbb2e281db/e/62ed9669b9ad49a82ede63ea

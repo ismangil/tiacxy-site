@@ -19,7 +19,7 @@ Tiacxy will *not* aim to be:
 
 # Heritage
 
-Tiacxy is a remix of Hypercube
+Tiacxy is a remix of [Hypercube](https://www.thingiverse.com/thing:1752766)
 
 ## Remixed bits
 

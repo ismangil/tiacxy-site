@@ -1,3 +1,7 @@
+---
+title: Controller board
+---
+
 # Controller board
 
 ## 8-bit vs 32-bit
