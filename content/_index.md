@@ -1,0 +1,11 @@
+---
+title: "Tiacxy 3D Printer"
+description: "This is another CoreXY 3D Printer Build"
+---
+
+
+Here are the [guides to build Tiacxy.](https://tiacxy.eu/guides)
+
+Eventually, there will be in a [book](https://book.tiacxy.eu)
+
+​
