@@ -1,5 +1,5 @@
 ---
-title: "Tiacxy 3D Printer"
+title: "Building a CoreXY 3D Printer"
 description: "This is another CoreXY 3D Printer Build"
 ---
 
