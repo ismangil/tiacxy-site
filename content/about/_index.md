@@ -23,7 +23,9 @@ Tiacxy is a remix of [Hypercube](https://www.thingiverse.com/thing:1752766)
 
 ## Remixed bits
 
-* Use some parts from Artur's Lab
+* Use some parts from:
+   * Artur's Lab (thingiverse/arturslab)
+   * Aitor Martin (thingiverse/[okercho](https://www.thingiverse.com/thing:2046608))
 
 * 24V supply
 
