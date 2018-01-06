@@ -2,18 +2,25 @@
 title: Software
 ---
 
+# CuraEngine
 
+Building libArcus 3.1.0 for CuraEngine 3.1.0 can be done with:
 
-Building libArcus for CuraaEngine can be done with:
+```
+wget https://github.com/ismangil/libArcus/archive/3.1.0.tar.gz
 
+tar zxvf 3.1.0.tar.gz
 
-- ```mkdir build && cd build```
+cd 
 
-- ```cmake .. -DBUILD_PYTHON=OFF -DBUILD_EXAMPLES=OFF```
+mkdir build && cd build
 
-- ```make```
+cmake .. -DBUILD_PYTHON=OFF -DBUILD_EXAMPLES=OFF
 
-- ```sudo make install```
+make
+
+sudo make install
+```
 
 
 ​
