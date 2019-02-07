@@ -34,3 +34,5 @@ Tiacxy is a remix of [Hypercube](https://www.thingiverse.com/thing:1752766)
 * Increased height for electronics storage at bottom & filament spool/extruder on top
 
 * X axis rods are 8mm steel rods with LM8LUU bearings, same as Y axis
+
+Footnote: edited
